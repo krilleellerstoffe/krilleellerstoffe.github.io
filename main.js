@@ -2,7 +2,7 @@
 /* Christopher O'Driscoll al0038@mau.se */
 var omdbAPI = new XMLHttpRequest();
 //use the stored API key from .env
-const API_KEY = 'b53806ad';
+const API_KEY = '';
 // Den URL vi ska använda oss av
 var omdbURL = "https://www.omdbapi.com/?apikey=" + API_KEY + "&s=";
 
